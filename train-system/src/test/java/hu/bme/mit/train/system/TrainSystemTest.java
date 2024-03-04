@@ -65,6 +65,12 @@ public class TrainSystemTest {
 		Assert.assertEquals(0, controller.getReferenceSpeed());
 	}
 
+	@Test
+	public void tachotest() {
+		sensor.tachograf();
+		Assert.assertEquals(1, sensor.getTachoSize());
+	}
+
 
 	
 }
