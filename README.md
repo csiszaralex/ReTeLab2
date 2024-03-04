@@ -8,6 +8,8 @@
 Comment 3
 ```
 
+Another comment
+
 This is a sample application for the verification laboratory.
 
 ## Getting started
