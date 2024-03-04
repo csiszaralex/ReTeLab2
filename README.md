@@ -8,6 +8,8 @@
 Comment 3
 ```
 
+Kicsit mas komment
+
 This is a sample application for the verification laboratory.
 
 ## Getting started
