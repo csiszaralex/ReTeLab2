@@ -44,7 +44,6 @@ public class TrainControllerImpl implements TrainController {
 	@Override
 	public void setJoystickPosition(int joystickPosition) {
 		this.step = joystickPosition * 2;
-		//comment
 	}
 
 	public void uj() {}
